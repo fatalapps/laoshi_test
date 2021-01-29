@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--1-->
+    <declare-styleable name="card_view_attrs">
+        <attr name="custom_card_title" format="reference" />
+        <attr name="custom_card_words_count" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="horizontal_attrs">
+        <attr name="custom_row_name" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="book_attrs">
+        <attr name="custom_book_row_name" format="reference" />
+        <attr name="custom_book_title" format="reference" />
+        <attr name="custom_book_description" format="reference" />
+        <attr name="custom_image_url" format="reference" />
+    </declare-styleable>
+</resources>
